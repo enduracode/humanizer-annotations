@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly name="Humanizer">
+	<member name="M:Humanizer.StringExentions.FormatWith(System.String,System.Object[])">
+		<attribute ctor="M:JetBrains.Annotations.StringFormatMethodAttribute.#ctor(System.String)">
+			<argument>format</argument>
+		</attribute>
+	</member>
+</assembly>

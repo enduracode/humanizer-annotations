@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>Humanizer.Annotations</id>
+		<version>1.0.0-pr1</version>
+		<title>Humanizer Annotations</title>
+		<authors>William Gross</authors>
+		<description>ReSharper External Annotations for the Humanizer library</description>
+		<projectUrl>https://github.com/enduracode/humanizer-annotations</projectUrl>
+		<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<dependencies>
+			<dependency id="ReSharper" version="8.0" />
+		</dependencies>
+		<tags>Humanizer Annotations</tags>
+	</metadata>
+</package>
