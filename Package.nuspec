@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
 	<metadata>
 		<id>Humanizer.Annotations</id>
-		<version>4.0.1</version>
+		<version>5.0.0</version>
 		<title>Humanizer Annotations</title>
 		<authors>William Gross</authors>
 		<description>ReSharper External Annotations for the Humanizer library</description>
@@ -10,7 +10,7 @@
 		<licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<dependencies>
-			<dependency id="Wave" version="[4.0]" />
+			<dependency id="Wave" version="1.0" />
 		</dependencies>
 		<tags>Humanizer Annotations</tags>
 	</metadata>
